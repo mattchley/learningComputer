@@ -23,7 +23,7 @@ TODO- Make a similar page for FrontEnd Questions
 [[Tries]]
 [[BackTracking]]
 
-[[Heap/Priority Queue]]
+[[Heap & Priority Queue]]
 [[Graphs]]
 [[Dynamic Programming1]]
 
