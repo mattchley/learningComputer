@@ -25,13 +25,13 @@ TODO- Make a similar page for FrontEnd Questions
 
 [[Heap/Priority Queue]]
 [[Graphs]]
-[[Dynamic Programming#1]]
+[[Dynamic Programming1]]
 
 [[Intervals]]
 [[Greedy]]
 [[Advanced Graphs]]
 
-[[Dynamic Programming #2]]
+[[Dynamic Programming2]]
 [[Bit Manipulation]]
 
 [[Math&Geometry]]
