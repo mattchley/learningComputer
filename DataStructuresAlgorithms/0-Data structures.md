@@ -6,7 +6,7 @@ Her is a brief breakdown and description of the 14 most used DSA related Qs on L
 https://www.blog.codeinmotion.io/p/leetcode-patterns
 
 GOAL- To ultimately condense all the info that is in the top 2 links into an digestible reference and flashcard program
-note: see if i can further break it down into some anki flashcards to refer back to
+note: see if i can further break it down into somto refer back to
 
 TODO- Make a similar page for FrontEnd Questions
 
