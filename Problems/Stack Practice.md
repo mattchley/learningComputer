@@ -12,5 +12,8 @@ for (let i = 0; i < string.length; i++) {
 }
 
 %% now that the string is in the stack we can pop from it and return to new string %%
-stack.forEach(ele => )
+for (let i = 0; i < stack.length; i++) {
+	resstring +=   
+	stack.pop()
+}
 ```
