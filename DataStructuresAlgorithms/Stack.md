@@ -46,6 +46,12 @@ class Stack{
 	}
 
 %% pop function %%
+	pop(){
+	if(this.isEmpty()){
+		return "stack is Empty"
+	}
+	this.items.pop()
+	}
 
 %% peek function %%
 
