@@ -1,6 +1,3 @@
-
-https://youtu.be/41GSinwoMYA?si=qxrSPqEZWXS2em76&t=2482 for JS data structure outlines
-
 Based on the flow chart with Neetcode - https://neetcode.io/
 Her is a brief breakdown and description of the 14 most used DSA related Qs on LeetCode along with generic code blocks to illustrate what needs to be done
 https://www.blog.codeinmotion.io/p/leetcode-patterns
