@@ -78,13 +78,14 @@ LeetCode filtered for Stacks https://leetcode.com/problem-list/stack/
 1 - Basic  practice [ https://leetcode.com/problems/baseball-game/description/?envType=problem-list-v2&envId=stack]
 2 - set up and list of problems at bottom [https://www.geeksforgeeks.org/implementation-stack-javascript/#]
 
-### Neetcode Problems[[Stack problem 1-Valid Parentheses]] [https://leetcode.com/problems/valid-parentheses/description/]
-1. Min Stack [https://leetcode.com/problems/min-stack/]
-2. Evaluate Reverse Polish Notation [https://neetcode.io/problems/evaluate-reverse-polish-notation]
-3. Generate Parentheses [https://leetcode.com/problems/generate-parentheses/]
-4. Daily Temperatures [https://leetcode.com/problems/daily-temperatures/]
-5. Car Fleet [https://leetcode.com/problems/car-fleet/]
-6. Largest Rectangle in Histogram [https://neetcode.io/problems/largest-rectangle-in-histogram]
+### Neetcode Problems
+1. [[Stack problem 1-Valid Parentheses]] [https://leetcode.com/problems/valid-parentheses/description/]
+2. Min Stack [https://leetcode.com/problems/min-stack/]
+3. Evaluate Reverse Polish Notation [https://neetcode.io/problems/evaluate-reverse-polish-notation]
+4. Generate Parentheses [https://leetcode.com/problems/generate-parentheses/]
+5. Daily Temperatures [https://leetcode.com/problems/daily-temperatures/]
+6. Car Fleet [https://leetcode.com/problems/car-fleet/]
+7. Largest Rectangle in Histogram [https://neetcode.io/problems/largest-rectangle-in-histogram]
 
 
 [[Stack Practice]]
