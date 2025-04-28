@@ -37,5 +37,6 @@ The flow that occurs with "({})"
 	3. The loop grabs "{" and repeats steps 2 & 3 stack is "(", "{" 
 	4. The loop grabs "}" and we hit the second block
 	5. the second block checks if the stack is empty to show there is no corresponding parenthesis or to check if the item popped from the stack matches a closing parenthesis
-	6. item is popped
-	7. 
+	6. "{"  is popped
+	7. The loop grabs "}" repeats steps 4 & 5 stack is "("
+	8. "(" is popped and the stack is 
