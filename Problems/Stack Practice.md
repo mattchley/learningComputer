@@ -6,5 +6,7 @@ let string = "abc"
 let stack = [];
 let resString = ""
 
-
+for (let i = 0; i < string.length; i++) {  
+	string
+}
 ```
