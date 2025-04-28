@@ -36,4 +36,4 @@ The flow that occurs with "({})"
 	2. Object.values is looking for an opening parenthesis and push to the stack
 	3. The loop grabs "{" and repeats steps 2 & 3 stack is "(", "{" 
 	4. The loop grabs "}" and we hit the second block
-	5. 
+	5. the second block checks if the stack is empty to show there is no corresponding para
