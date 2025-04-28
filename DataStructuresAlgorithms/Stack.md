@@ -63,9 +63,13 @@ class Stack{
 
 %% isEmpty function %%
 	isEmpty(){
+	return this.items.length === 0
 	}
 
 %% size function %%
+	size(){
+	return this.items.length
+	}
 }
 ```
 ----
