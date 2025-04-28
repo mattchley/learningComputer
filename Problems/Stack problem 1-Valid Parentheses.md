@@ -35,5 +35,5 @@ The flow that occurs with "({})"
 	1. The loop grabs "(" and the stack is "("
 	2. Object.values is looking for an opening parenthesis and push to the stack
 	3. The loop grabs "{" and repeats steps 2 & 3 stack is "(", "{" 
-	4. The loop grabs "}" 
-	5. We hit the first if block and push to the stack
+	4. The loop grabs "}" and we hit the second block
+	5. 
