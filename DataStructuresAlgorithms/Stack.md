@@ -79,7 +79,7 @@ LeetCode filtered for Stacks https://leetcode.com/problem-list/stack/
 2 - set up and list of problems at bottom [https://www.geeksforgeeks.org/implementation-stack-javascript/#]
 
 ### Neetcode Problems
-1. [[Valid Parentheses]] [https://leetcode.com/problems/valid-parentheses/description/]
+1. [[Stack problem 1: Valid Parentheses]] [https://leetcode.com/problems/valid-parentheses/description/]
 2. Min Stack [https://leetcode.com/problems/min-stack/]
 3. Evaluate Reverse Polish Notation [https://neetcode.io/problems/evaluate-reverse-polish-notation]
 4. Generate Parentheses [https://leetcode.com/problems/generate-parentheses/]
