@@ -30,3 +30,4 @@ The idea breaks down to:
 4. an obj/hash will be used if the opposite parentheses match
 5. As we iterate through the loop is the stack ends up empty we have valid parentheses if not it is invalid.
 ## Notes
+The flow that occurs with "([])"
