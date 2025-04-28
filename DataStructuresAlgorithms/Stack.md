@@ -78,4 +78,8 @@ LeetCode filtered for Stacks https://leetcode.com/problem-list/stack/
 1 - Basic  practice [ https://leetcode.com/problems/baseball-game/description/?envType=problem-list-v2&envId=stack]
 2 - set up and list of problems at bottom [https://www.geeksforgeeks.org/implementation-stack-javascript/#]
 
+### Neetcode Problems
+1. Valid Parenthese
+
+
 [[Stack Practice]]
