@@ -33,4 +33,4 @@ The idea breaks down to:
 The flow that occurs with "([])"
 	1. The loop grabs "(" and the stack is empty
 	2. Object.values is looking for a corresponding closing parenthesis so we move to next block
-	3. 
+	3. In the second block we check that the stack might have the 
