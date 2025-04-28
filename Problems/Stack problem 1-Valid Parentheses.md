@@ -3,20 +3,20 @@
 let stack = [];
 
 let parentheses = {
-')': '(',
-'}': '{',
-']': '[',
+	')': '(',
+	'}': '{',
+	']': '[',
 }
 
 // for loop to iterate
 for (const c of s) {
-if (Object.values(parentheses).includes(c)) {
-stack.push(c);
-} else if (parentheses.hasOwnProperty(c)) {
-if (!stack.length || parentheses[c] !== stack.pop()) {
-return false;
-}
-}
+		if (Object.values(parentheses).includes(c)) {
+			stack.push(c);
+		} else if (parentheses.hasOwnProperty(c)) {
+			if (!stack.length || parentheses[c] !== stack.pop()) {
+				return false;
+			}
+	}
 }
 
 return stack.length === 0
