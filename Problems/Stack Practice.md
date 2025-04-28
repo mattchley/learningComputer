@@ -10,4 +10,7 @@ let resString = ""
 for (let i = 0; i < string.length; i++) {  
 	stack.push(string[0])
 }
+
+%% now that the string is in the stack we can pop from it and return to new string %%
+stack.forEach(ele => )
 ```
