@@ -24,8 +24,9 @@ return stack.length === 0
 Code above solves the problem with obj/hash implementation
 
 The idea breaks down to:
-1. We need to iterate through the string and add/remove from the stack when there is a valid and opposite parentheses
-2. there needs to be a stack to store the elements that have been seen but not partnered
-3. an obj/hash will be used if the opposite parentheses match
-4. As we iterate through the loop is the stack ends up empty we have valid parentheses if not it is invalid.
+1. Based on the parameters of the question 
+2. We need to iterate through the string and add/remove from the stack when there is a valid and opposite parentheses
+3. there needs to be a stack to store the elements that have been seen but not partnered
+4. an obj/hash will be used if the opposite parentheses match
+5. As we iterate through the loop is the stack ends up empty we have valid parentheses if not it is invalid.
 ## Notes
