@@ -1,6 +1,6 @@
 ## Code
 ``` js
-let s = 
+let s = "({})";
 let stack = [];
 
 let parentheses = {
