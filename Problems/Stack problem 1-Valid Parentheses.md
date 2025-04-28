@@ -1,5 +1,6 @@
 ## Code
 ``` js
+let s = 
 let stack = [];
 
 let parentheses = {
@@ -35,4 +36,5 @@ The flow that occurs with "({})"
 	2. Object.values is looking for a corresponding closing parenthesis so we move to next block
 	3. In the second block we check that the stack might have the parenthesis to pop but it doesn't
 	4. The loop grabs "{" and the stack is empty and repeats steps 2 & 3
-	5. 
+	5. The loop grabs "}" and the stack is empty
+	6. We hit the first if block and push to the stack
