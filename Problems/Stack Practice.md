@@ -13,7 +13,9 @@ for (let i = 0; i < string.length; i++) {
 
 %% now that the string is in the stack we can pop from it and return to new string %%
 for (let i = 0; i < stack.length; i++) {
-	resstring +=   
-	stack.pop()
+%% pop returns form the end of the array %%
+	resstring += stack.pop()
 }
+
+return 
 ```
