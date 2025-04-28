@@ -31,3 +31,5 @@ The idea breaks down to:
 5. As we iterate through the loop is the stack ends up empty we have valid parentheses if not it is invalid.
 ## Notes
 The flow that occurs with "([])"
+	1. The loop grabs "(" and the stack is empty
+	2. Object.values is looking for a corresponding closing 
