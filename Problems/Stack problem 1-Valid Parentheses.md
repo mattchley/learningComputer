@@ -39,4 +39,5 @@ The flow that occurs with "({})"
 	5. the second block checks if the stack is empty to show there is no corresponding parenthesis or to check if the item popped from the stack matches a closing parenthesis
 	6. "{"  is popped
 	7. The loop grabs "}" repeats steps 4 & 5 stack is "("
-	8. "(" is popped and the stack is 
+	8. "(" is popped and the stack is empty while at the end of the loop
+	9. stack.length is equal to zero so the they are valid parentheses
