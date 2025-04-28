@@ -50,12 +50,20 @@ class Stack{
 	if(this.isEmpty()){
 		return "stack is Empty"
 	}
-	this.items.pop()
+	return this.items.pop()
 	}
 
 %% peek function %%
+	peek(){
+	if(this.isEmpty()){
+		return "stack is Empty"
+	}
+	reutn this.items[this.items.length - 1]
+	}
 
 %% isEmpty function %%
+	isEmpty(){
+	}
 
 %% size function %%
 }
