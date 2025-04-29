@@ -42,6 +42,7 @@ MinStack.prototype.getMin = function() {
 
 ## The idea breaks down to:
 Follow the creation of a custom stack class like on the main page.
-The only difference is the check for the min 
+The only difference is the check for the minStack in the push function.
+The stack should the top() and getMin() ned
 
 ## Notes
