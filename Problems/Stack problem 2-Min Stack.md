@@ -36,7 +36,7 @@ MinStack.prototype.top = function() {
 */
 
 MinStack.prototype.getMin = function() {
-	return this.st.length ? this.st[this.st.length - 1][1] : null
+	return this.st.length ? this.st[this.st.length - 1][1] : null;
 };
 ```
 
@@ -46,7 +46,7 @@ The only difference is the check for the minStack in the push function.
 The push function stores an array in the stack that has the values sorted already. 
 %% Making a pseudo binary sort? %%
 ```
-value being pushed -> [2, 11]
+value being pushed -> [2, -1]
 ```
 As a result any retrieval will be an array with 2 elements in it thus:
 - top () returns the first in the array
