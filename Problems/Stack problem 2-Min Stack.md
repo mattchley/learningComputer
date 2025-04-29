@@ -44,11 +44,11 @@ MinStack.prototype.getMin = function() {
 Follow the creation of a custom stack class like on the main page.
 The only difference is the check for the minStack in the push function.
 The push function stores an array in the stack that has the values sorted already. 
-%% Making a pseudo binary sort? %%
+%% Making a psuedo bubble sort %%
 ```
 value being pushed -> [2, -1]
 ```
 As a result any retrieval will be an array with 2 elements in it thus:
-- top () returns the first in the array
+- top() returns the first in the array
 - getMin returns the second in array
 ## Notes
