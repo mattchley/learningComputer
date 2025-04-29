@@ -13,11 +13,8 @@ MinStack.prototype.push = function(val) {
 };
 
   
-
 /**
-
 * @return {void}
-
 */
 
 MinStack.prototype.pop = function() {
@@ -25,35 +22,26 @@ MinStack.prototype.pop = function() {
 };
 
   
-
 /**
-
 * @return {number}
-
 */
 
 MinStack.prototype.top = function() {
-
-return this.st.length ? this.st[this.st.length - 1][0] : null;
-
+	return this.st.length ? this.st[this.st.length - 1][0] : null;
 };
 
   
-
 /**
-
 * @return {number}
-
 */
 
 MinStack.prototype.getMin = function() {
-
-return this.st.length ? this.st[this.st.length - 1][1] : null
-
+	return this.st.length ? this.st[this.st.length - 1][1] : null
 };
 ```
 
 ## The idea breaks down to:
 Follow the creation of a custom stack class like on the main page.
+The only difference is the check for the min 
 
 ## Notes
