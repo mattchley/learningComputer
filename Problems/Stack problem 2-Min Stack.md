@@ -43,6 +43,9 @@ MinStack.prototype.getMin = function() {
 ## The idea breaks down to:
 Follow the creation of a custom stack class like on the main page.
 The only difference is the check for the minStack in the push function.
-The top() returns 
+The push function stores an array in the stack that has the values sorted already. 
+```js
+value being pu = [-1, 2]
+```
 
 ## Notes
