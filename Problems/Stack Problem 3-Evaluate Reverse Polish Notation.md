@@ -38,8 +38,10 @@ var evalRPN = function (tokens) {
 
 ## The idea breaks down to:
 - The main take away here is we need numbers more than we need the operators
-- the stack 
-the stack ho
+- the stack will hold numbers until we hit a operator
+- then we use a switch case to determine the order of operations
+	- Pay particular attention to '-' and '/' because their positioning matters
+	- 
 
 ## Notes
 1. Youtube vid for info :https://www.youtube.com/watch?v=xWSO1PF8AwI
