@@ -47,4 +47,4 @@ var evalRPN = function (tokens) {
 
 ## Notes
 1. Youtube vid for a guided view :https://www.youtube.com/watch?v=xWSO1PF8AwI
-2. this can be done with a if/else statement but 
+2. this can be done with a if/else statement but i figured it might be cleaner to ready with the switch statement
