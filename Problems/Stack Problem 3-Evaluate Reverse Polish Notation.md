@@ -37,7 +37,8 @@ var evalRPN = function (tokens) {
 ```
 
 ## The idea breaks down to:
-- The main take away here is knowing that keep nums until and operator and then do the two nums
+- The main take away here is we need numbers more than we need the operators
+- the stack 
 the stack ho
 
 ## Notes
