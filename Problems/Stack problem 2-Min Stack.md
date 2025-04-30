@@ -50,5 +50,5 @@ value being pushed -> [2, -1]
 ```
 As a result any retrieval will be an array with 2 elements in it thus:
 - top() returns the first in the array
-- getMin returns the second in array
+- getMin() returns the second in array
 ## Notes
