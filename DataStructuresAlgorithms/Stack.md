@@ -81,7 +81,7 @@ LeetCode filtered for Stacks https://leetcode.com/problem-list/stack/
 ### Neetcode Problems
 1. [[Stack problem 1-Valid Parentheses]] [https://leetcode.com/problems/valid-parentheses/description/]
 2. [[Stack problem 2-Min Stack]] [https://leetcode.com/problems/min-stack/]
-3. [[Stack Problem 3 Evaluate Reverse Polish Notation]] [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/]
+3. [[Stack Problem 3-Evaluate Reverse Polish Notation]] [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/]
 4. Generate Parentheses [https://leetcode.com/problems/generate-parentheses/]
 5. Daily Temperatures [https://leetcode.com/problems/daily-temperatures/]
 6. Car Fleet [https://leetcode.com/problems/car-fleet/]
