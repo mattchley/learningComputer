@@ -6,7 +6,6 @@
 */
 
 var evalRPN = function (tokens) {
-
 	let stack = [];
 	for (let c of tokens) {
 		switch (c) {
@@ -31,11 +30,9 @@ var evalRPN = function (tokens) {
 			default:
 			stack.push(parseInt(c));
 		}
-		
 	}
 
 	return stack[0];
-
 };
 ```
 
