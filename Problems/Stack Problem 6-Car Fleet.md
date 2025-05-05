@@ -30,5 +30,5 @@ a fleet of 3 cars reaches target 100
 	- will have to do a while loop to keep adding until they reach the target
 	- go with a reducing func
 		- if the cars will not catch up to them remove from the array?
-	- 
+	- The cars that are closer to the end are less likely to get in a fleet
 ## Notes
