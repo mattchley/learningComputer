@@ -7,9 +7,9 @@ note: see if i can further break it down into somto refer back to
 
 TODO- Make a similar page for FrontEnd Questions
 
-[[Array & Hashing]]
-[[Two Pointers]]
-[[Stack]]
+[[1-Array & Hashing]]
+[[2a-Two Pointers]]
+[[2b-Stack]]
 
 [[Binary Search]]
 [[Sliding Window]]
