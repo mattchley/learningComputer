@@ -48,5 +48,5 @@ a fleet of 3 cars reaches target 100
 	- go with a reducing func
 		- if the cars will not catch up to them remove from the array?
 	- The cars that are closer to the end are less likely to get in a fleet
-	- the cars follow a rate and if they
+	- the cars follow a rate and if their rate is less than the previous rate they fall into a fleet
 ## Notes
