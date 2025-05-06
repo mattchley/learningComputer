@@ -13,6 +13,6 @@
 ```
 
 
-
-sample problems: %% add links to the leetCode problems below and create separate notes for each %%
+### Neetcode Problems: %% add links to the leetCode problems below and create separate notes for each %%
+1. 
 
