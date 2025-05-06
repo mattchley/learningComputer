@@ -9,6 +9,7 @@
 %% include base set up for code %%
 ``` js
 let array = [];
+let map = new Map();
 
 
 
