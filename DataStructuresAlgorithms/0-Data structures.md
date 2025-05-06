@@ -25,10 +25,10 @@ TODO- Make a similar page for FrontEnd Questions
 [[6c-Dynamic Programming1]]
 
 [[7a-Intervals]]
-[[Greedy]]
-[[Advanced Graphs]]
+[[7b-Greedy]]
+[[7c-Advanced Graphs]]
 
-[[Dynamic Programming2]]
-[[Bit Manipulation]]
+[[7d-Dynamic Programming2]]
+[[7e-Bit Manipulation]]
 
 [[Math&Geometry]]
