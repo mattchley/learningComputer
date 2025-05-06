@@ -1,29 +1,22 @@
 ## Code
 ``` js
 var carFleet = function (target, position, speed) {
-
 	let cars = [];
-	
 	let stack = [];
 	
 	for (let i = 0; i < position.length; i++) {
-	
-	cars.push([position[i], speed[i]])
-	
+		cars.push([position[i], speed[i]]);
 	}
 	
-	cars.sort((a, b) => b[0] - a[0])
-	
-	  
+	cars.sort((a, b) => b[0] - a[0]);
 	
 	for (let [pos, spd] of cars) {
-	
-	let reach = (target - pos) / spd
-	if (stack.length < 1 || stack[stack.length - 1] < reach) {
-	stack.push(reach)
+		let reach = (target - pos) / spd
+		if (stack.length < 1 || stack[stack.length - 1] < reach) {
+			stack.push(reach);
+		}
 	}
-	}
-	return stack.length
+	return stack.length;
 };
 ```
 
@@ -55,4 +48,5 @@ a fleet of 3 cars reaches target 100
 	- go with a reducing func
 		- if the cars will not catch up to them remove from the array?
 	- The cars that are closer to the end are less likely to get in a fleet
+	- the cars follow a rate and if they
 ## Notes
