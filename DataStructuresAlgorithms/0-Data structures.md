@@ -31,4 +31,4 @@ TODO- Make a similar page for FrontEnd Questions
 [[7d-Dynamic Programming2]]
 [[7e-Bit Manipulation]]
 
-[[Math&Geometry]]
+[[8-Math&Geometry]]
