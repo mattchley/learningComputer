@@ -1,6 +1,30 @@
 ## Code
 ``` js
+var carFleet = function (target, position, speed) {
 
+	let cars = [];
+	
+	let stack = [];
+	
+	for (let i = 0; i < position.length; i++) {
+	
+	cars.push([position[i], speed[i]])
+	
+	}
+	
+	cars.sort((a, b) => b[0] - a[0])
+	
+	  
+	
+	for (let [pos, spd] of cars) {
+	
+	let reach = (target - pos) / spd
+	if (stack.length < 1 || stack[stack.length - 1] < reach) {
+	stack.push(reach)
+	}
+	}
+	return stack.length
+};
 ```
 
 ## The idea breaks down to:
