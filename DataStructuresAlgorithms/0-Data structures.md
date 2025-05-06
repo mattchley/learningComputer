@@ -18,9 +18,9 @@ TODO- Make a similar page for FrontEnd Questions
 [[4-Trees]]
 
 [[5a-Tries]]
-[[BackTracking]]
+[[5b-BackTracking]]
 
-[[Heap & Priority Queue]]
+[[6a-Heap & Priority Queue]]
 [[Graphs]]
 [[Dynamic Programming1]]
 
