@@ -21,10 +21,10 @@ TODO- Make a similar page for FrontEnd Questions
 [[5b-BackTracking]]
 
 [[6a-Heap & Priority Queue]]
-[[Graphs]]
-[[Dynamic Programming1]]
+[[6b-Graphs]]
+[[6c-Dynamic Programming1]]
 
-[[Intervals]]
+[[7a-Intervals]]
 [[Greedy]]
 [[Advanced Graphs]]
 
