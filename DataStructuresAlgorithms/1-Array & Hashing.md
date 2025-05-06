@@ -8,7 +8,9 @@
 ### How to implement
 %% include base set up for code %%
 ``` js
-%% js code goes here %%
+let array = [];
+
+
 
 ```
 
