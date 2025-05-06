@@ -73,11 +73,6 @@ class Stack{
 }
 ```
 ----
-### Sample Problems: 
-LeetCode filtered for Stacks https://leetcode.com/problem-list/stack/
-1 - Basic  practice [ https://leetcode.com/problems/baseball-game/description/?envType=problem-list-v2&envId=stack]
-2 - set up and list of problems at bottom [https://www.geeksforgeeks.org/implementation-stack-javascript/#]
-
 ### Neetcode Problems
 1. [[Stack Problem 1-Valid Parentheses]] [https://leetcode.com/problems/valid-parentheses/description/]
 2. [[Stack Problem 2-Min Stack]] [https://leetcode.com/problems/min-stack/]
@@ -86,6 +81,12 @@ LeetCode filtered for Stacks https://leetcode.com/problem-list/stack/
 5. [[Stack Problem 5-Daily Temperatures]] [https://leetcode.com/problems/daily-temperatures/]
 6. [[Stack Problem 6-Car Fleet]] [https://leetcode.com/problems/car-fleet/]
 7. Largest Rectangle in Histogram [https://neetcode.io/problems/largest-rectangle-in-histogram]
+### Sample Problems: 
+LeetCode filtered for Stacks https://leetcode.com/problem-list/stack/
+1 - Basic  practice [ https://leetcode.com/problems/baseball-game/description/?envType=problem-list-v2&envId=stack]
+2 - set up and list of problems at bottom [https://www.geeksforgeeks.org/implementation-stack-javascript/#]
+
+
 
 
 [[Stack Practice]]

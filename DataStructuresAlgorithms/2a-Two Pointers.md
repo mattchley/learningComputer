@@ -1,9 +1,12 @@
 ----
-
-### Basic functionality: 
+### Basic Functionality: 
 %% what functions can be used on the structure include time complexities%% 
 
-How to implement it: %% include base set up for code %%
+### When to implement
+- 
+----
+### How to implement
+%% include base set up for code %%
 ``` js
 %% js code goes here %%
 
