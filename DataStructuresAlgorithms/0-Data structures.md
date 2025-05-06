@@ -11,13 +11,13 @@ TODO- Make a similar page for FrontEnd Questions
 [[2a-Two Pointers]]
 [[2b-Stack]]
 
-[[Binary Search]]
-[[Sliding Window]]
-[[Linked List]]
+[[3a-Binary Search]]
+[[3b-Sliding Window]]
+[[3c-Linked List]]
 
-[[Trees]]
+[[4-Trees]]
 
-[[Tries]]
+[[5a-Tries]]
 [[BackTracking]]
 
 [[Heap & Priority Queue]]
