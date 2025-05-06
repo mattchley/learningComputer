@@ -21,9 +21,9 @@ let array = [];
 3. [[Array & Hashing Problem -3]][https://leetcode.com/problems/two-sum/]
 4. [[Array & Hashing Problem -4]][https://leetcode.com/problems/group-anagrams/]
 5. [[Array & Hashing Problem -5]][https://leetcode.com/problems/top-k-frequent-elements/]
-6. [[Array & Hashing Problem -6]][]
-7. [[Array & Hashing Problem -7]]
-8. [[Array & Hashing Problem -8]]
-9. [[Array & Hashing Problem -9]]
-10. 
+6. [[Array & Hashing Problem -6]][https://leetcode.com/problems/encode-and-decode-strings/]
+7. [[Array & Hashing Problem -7]][https://leetcode.com/problems/product-of-array-except-self/]
+8. [[Array & Hashing Problem -8]][https://leetcode.com/problems/valid-sudoku/]
+9. [[Array & Hashing Problem -9]][https://leetcode.com/problems/longest-consecutive-sequence/]
+
 
