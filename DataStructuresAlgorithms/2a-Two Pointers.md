@@ -17,6 +17,6 @@
 1. [[Two Pointers Problem -1]][https://leetcode.com/problems/valid-palindrome/]
 2. [[Two Pointers Problem -2]][https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/]
 3. [[Two Pointers Problem -3]][https://leetcode.com/problems/3sum/]
-4. [[Two Pointers Problem -4]][]
-5. [[Two Pointers Problem -5]][]
+4. [[Two Pointers Problem -4]][https://leetcode.com/problems/container-with-most-water/]
+5. [[Two Pointers Problem -5]][https://leetcode.com/problems/trapping-rain-water/]
 
