@@ -2,9 +2,7 @@
 ## Code
 ``` js
 var isAnagram = function (s, t) {
-	if (s.length !== t.length){
-        return false
-    }
+	if (s.length !== t.length) return false
     const counter = new Map()
 
     for (let char of s){
