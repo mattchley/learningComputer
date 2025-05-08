@@ -13,6 +13,10 @@
 ```
 
 
-### Neetcode Problems: %% add links to the leetCode problems below and create separate notes for each %%
-1. 
+### Neetcode Problems: 
+1. Two Pointers Problem -1
+2. Two Pointers Problem -2
+3. Two Pointers Problem -3
+4. Two Pointers Problem -4
+5. Two Pointers Problem -5
 
