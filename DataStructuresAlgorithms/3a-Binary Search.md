@@ -8,7 +8,7 @@
 ### How to implement
 - using a while loop the basic implementation looks like
 ``` js
-const iterativeFunction = ()=>(arr, x) {
+const iterativeFunction = (arr, target) => {
     let start = 0, end = arr.length - 1;
 
     // Iterate while start not meets end
@@ -19,11 +19,11 @@ const iterativeFunction = ()=>(arr, x) {
 
         // If element is present at 
         // mid, return True
-        if (arr[mid] === x) return true;
+        if (arr[mid] === target) return true;
 
         // Else look in left or 
         // right half accordingly
-        else if (arr[mid] < x)
+        else if (arr[mid] < )
             start = mid + 1;
         else
             end = mid - 1;
@@ -35,7 +35,7 @@ const iterativeFunction = ()=>(arr, x) {
 ```
 - using a recursive implementation
 ``` js
-const recursiveFunction = function (arr, x, start, end) {
+const recursiveFunction = (arr, x, start, end) => {
 
     // Base Condition
     if (start > end) return false;
