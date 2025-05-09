@@ -23,7 +23,7 @@ const iterativeFunction = (arr, target) => {
 
         // Else look in left or 
         // right half accordingly
-        else if (arr[mid] < )
+        else if (arr[mid] < target)
             start = mid + 1;
         else
             end = mid - 1;
@@ -35,7 +35,7 @@ const iterativeFunction = (arr, target) => {
 ```
 - using a recursive implementation
 ``` js
-const recursiveFunction = (arr, x, start, end) => {
+const recursiveFunction = (arr, target, start, end) => {
 
     // Base Condition
     if (start > end) return false;
@@ -44,20 +44,20 @@ const recursiveFunction = (arr, x, start, end) => {
     let mid = Math.floor((start + end) / 2);
 
     // Compare mid with given key x
-    if (arr[mid] === x) return true;
+    if (arr[mid] === target) return true;
 
     // If element at mid is greater than x,
     // search in the left half of mid
-    if (arr[mid] > x)
-        return recursiveFunction(arr, x, start, mid - 1);
+    if (arr[mid] > target)
+        return recursiveFunction(arr, target, start, mid - 1);
     else
 
         // If element at mid is smaller than x,
         // search in the right half of mid
-        return recursiveFunction(arr, x, mid + 1, end);
+        return recursiveFunction(arr, target, mid + 1, end);
 }
 ```
 
-### Neetcode Problems: %% add links to the leetCode problems below and create separate notes for each %%
+### Neetcode Problems: 
 1. 
 
