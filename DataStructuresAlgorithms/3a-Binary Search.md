@@ -1,6 +1,6 @@
 ----
 ### Basic Functionality: 
-- 
+- Binary Search is a searching technique that works on the Divide and Conquer approach. It is used to search for any element in a sorted array.
 
 ### When to implement
 - 
