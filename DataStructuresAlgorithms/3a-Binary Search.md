@@ -59,10 +59,10 @@ const recursiveFunction = (arr, target, start, end) => {
 ```
 
 ### Neetcode Problems: 
-1. Binary Search Problem 1-Binary Sarch
-2. Binary Search Problem 2-
-3. Binary Search Problem 3-
-4. Binary Search Problem 4-
+1. Binary Search Problem 1-Binary Search
+2. Binary Search Problem 2-Search a 2D Matrix
+3. Binary Search Problem 3-Koko Eating Bananas
+4. Binary Search Problem 4-Find minimum 
 5. Binary Search Problem 5-
 6. Binary Search Problem 6-
 7. Binary Search Problem 7-
