@@ -50,6 +50,6 @@ nums = [-1,0,1,2,-1,-4] -> [-4,-1,-1,0,1,2]
 - after the sort we need a consistent holder of the first number
 	- using a for loop we can set the base number
 - once we have the base number we can use more typical two pointer formulation
-- maybe use a set to prevent duplicate triplets from being used?
 
 ## Notes
+- maybe use a set to prevent duplicate triplets from being used?
