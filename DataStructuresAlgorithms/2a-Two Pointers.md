@@ -8,7 +8,20 @@
 ### How to implement
 %% include base set up for code %%
 ``` js
-%% js code goes here %%
+const iterativeFunction = (arr, target) => {
+    let start = 0, end = arr.length - 1;
+
+    // Iterate while start not meets end
+    while (start <= end) {
+
+        if (arr[mid] < target)
+            start = mid + 1;
+        else
+            end = mid - 1;
+    }
+
+    return false;
+}
 
 ```
 
