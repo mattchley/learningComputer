@@ -2,46 +2,34 @@
 ## Code
 ``` js
 var searchMatrix = function(matrix, target) {
-if(matrix==null||matrix.length==0||matrix[0].length==0)return false;
-
-let mLength = matrix.length;
-
-let rowLength = matrix[0].length
-
-let l = 0
-
-// grabs the length of the matrix back to back
-
-let r = mLength * rowLength -1
-
-while(l<=r){
-
-// mid point of all the arrays
-
-let mid = Math.floor((l + r) / 2);
-
-  
-
-let val = matrix[Math.floor(mid / rowLength)][mid % rowLength];
-
-  
-
-if (val === target)return true;
-
-// if val isnt right adjust the pointers
-
-if (val < target)
-
-l = mid + 1;
-
-else
-
-r = mid - 1;
-
-}
-
-return false
-
+	if(matrix==null||matrix.length==0||matrix[0].length==0)return false;
+	
+	let mLength = matrix.length;
+	let rowLength = matrix[0].length
+	let l = 0
+	
+	// grabs the length of the matrix back to back
+	let r = mLength * rowLength -1
+	
+	while(l<=r){
+	
+	// mid point of all the arrays
+	let mid = Math.floor((l + r) / 2);
+	// the val associtated with the index
+	let val = matrix[Math.floor(mid / rowLength)][mid % rowLength];
+	
+	  
+	
+	if (val === target)return true;
+	// if val isnt right adjust the pointers
+	
+	if (val < target)
+	l = mid + 1;
+	else
+	r = mid - 1;
+	}
+	
+	return false
 };
 ```
 
