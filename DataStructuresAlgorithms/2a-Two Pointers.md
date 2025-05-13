@@ -13,8 +13,10 @@ const iterativeFunction = (arr, target) => {
 
     // Iterate while start not meets end
     while (start <= end) {
-
-        if (arr[mid] < target)
+    // Condition wishing to be met
+		let element,
+		// Change the pointers based on outcomes
+        if (element < target)
             start = mid + 1;
         else
             end = mid - 1;
